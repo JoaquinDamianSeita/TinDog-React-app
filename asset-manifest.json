@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TinDog-React-app/static/css/main.baff03da.chunk.css",
+    "main.js": "/TinDog-React-app/static/js/main.b362561d.chunk.js",
+    "main.js.map": "/TinDog-React-app/static/js/main.b362561d.chunk.js.map",
+    "runtime-main.js": "/TinDog-React-app/static/js/runtime-main.6df4c2b1.js",
+    "runtime-main.js.map": "/TinDog-React-app/static/js/runtime-main.6df4c2b1.js.map",
+    "static/css/2.7b1c032f.chunk.css": "/TinDog-React-app/static/css/2.7b1c032f.chunk.css",
+    "static/js/2.f4d90f20.chunk.js": "/TinDog-React-app/static/js/2.f4d90f20.chunk.js",
+    "static/js/2.f4d90f20.chunk.js.map": "/TinDog-React-app/static/js/2.f4d90f20.chunk.js.map",
+    "static/js/3.ec76346a.chunk.js": "/TinDog-React-app/static/js/3.ec76346a.chunk.js",
+    "static/js/3.ec76346a.chunk.js.map": "/TinDog-React-app/static/js/3.ec76346a.chunk.js.map",
+    "index.html": "/TinDog-React-app/index.html",
+    "static/css/2.7b1c032f.chunk.css.map": "/TinDog-React-app/static/css/2.7b1c032f.chunk.css.map",
+    "static/css/main.baff03da.chunk.css.map": "/TinDog-React-app/static/css/main.baff03da.chunk.css.map",
+    "static/js/2.f4d90f20.chunk.js.LICENSE.txt": "/TinDog-React-app/static/js/2.f4d90f20.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6df4c2b1.js",
+    "static/css/2.7b1c032f.chunk.css",
+    "static/js/2.f4d90f20.chunk.js",
+    "static/css/main.baff03da.chunk.css",
+    "static/js/main.b362561d.chunk.js"
+  ]
+}
